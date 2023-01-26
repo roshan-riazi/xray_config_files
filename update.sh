@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "$(date +%Y%m%d_%H:%M:%S) - called install script." >> /opt/etc/xray/install.log
+echo "$(date +%Y%m%d_%H:%M:%S) - called update script." >> /opt/etc/xray/update.log
